@@ -5,12 +5,13 @@
 
 - Assignments:
     - 1/22:
-        - Get an account at chesskids.com
+        - Get an account at [chesskids.com](https://www.chesskids.com)
+        - 
 
 
 - PWCS Chess Tournaments 2024-2025 Schedule
     - Time: from 9:00 AM to 1:30 (approximately) PM
-    Locations (always on Saturdays):
+    - Locations (always on Saturdays):
         - October 18 – Rippon Landing Middle
         - November 8 – Forest Park High
         - January 10 – Unity Reed High
